@@ -1,8 +1,7 @@
-# CHOI MINJUN 최민준
-(https://github-readme-stats.vercel.app/api?username=chlalswns200&show_icons=true)
-<!--
-**chlalswns200/chlalswns200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## CHOI MINJUN 최민준
 
-## Skills
-qweqrtwgf
-fvawrvrav
+### SKILLS
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+### STATUS
+![chlalswns200's github stats](https://github-readme-stats.vercel.app/api?username=chlalswns200&show_icons=true)
