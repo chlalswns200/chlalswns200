@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## CHOI MINJUN 최민준
 <!--
 **chlalswns200/chlalswns200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
