@@ -1,4 +1,5 @@
 ## CHOI MINJUN 최민준
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
 <!--
 **chlalswns200/chlalswns200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
